@@ -5,16 +5,16 @@ function Header() {
     return(
         <>
         <header className='flex-space-between'>
-            <div className='logo border'>
+            <div className='logo'>
                 <img src={Logosvg} alt={descLogo}/>
             </div>
             <div className='search'>
                 <input className='input-search' type='text' name='search' />
             </div>
             <ul className='menu'>
-                <li><a href='#' className='nav-link'> Categorias </a></li>
-                <li><a href='#' className='nav-link'> Sobre </a></li>
-                <li><a href='#' className='nav-link'> Contato </a></li>
+                <li><a href='/categorias' className='nav-link'> Categorias </a></li>
+                <li><a href='/sobre' className='nav-link'> Sobre </a></li>
+                <li><a href='/contato' className='nav-link'> Contato </a></li>
             </ul>
 
         </header>
