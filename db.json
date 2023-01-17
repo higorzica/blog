@@ -3,17 +3,20 @@
     {
       "id": 1,
       "category": "Tecnologia",
-      "title": "O guia definitivo sobre o blog",
-      "resume": "Lorem ipsum",
+      "image": "images/foto5.png",
+      "title": "O guia definitivo sobre o Javascript",
+      "resume": "JavaScript est un langage de programmation de scripts principalement employé dans les pages web interactives et à ce titre est une partie essentielle des applications web.",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ornare urna pharetra ut ac, pellentesque.",
       "author": "Fulano de tal",
       "date": "Aug 2, 2020"
+      
     },
     {
       "id": 2,
       "category": "Fotografia",
+      "image": "images/foto2.png",
       "title": "Quais as melhores câmeras em 2021?",
-      "resume": "Lorem ipsum",
+      "resume": "JavaScript est un langage de programmation de scripts principalement employé dans les pages web interactives et à ce titre est une partie essentielle des applications web.",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ornare urna pharetra ut ac, pellentesque.",
       "author": "Ciclano de tal",
       "date": "Aug 4, 2020"
@@ -21,8 +24,9 @@
     {
       "id": 4,
       "category": "Cinema",
-      "title": "Os 10 filmes com maior bilheteria.",
-      "resume": "Lorem ipsum",
+      "image": "images/foto4.png",
+      "title": "Os 10 filmes com maior bilheteria no ano de 2023.",
+      "resume": "JavaScript est un langage de programmation de scripts principalement employé dans les pages web interactives et à ce titre est une partie essentielle des applications web.",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ornare urna pharetra ut ac, pellentesque.",
       "author": "Beltrano de tal",
       "date": "Aug 6, 2020"
@@ -30,8 +34,9 @@
     {
       "id": 3,
       "category": "Hardware",
+      "image": "images/foto3.png",
       "title": "Tudo aumentou MUITO com a pandemia.",
-      "resume": "Lorem ipsum R$",
+      "resume": "Em economia, a inflação é um aumento geral nos preços de bens e serviços em uma economia.",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ornare urna pharetra ut ac, pellentesque.",
       "author": "Higor Zica",
       "date": "Jan 12, 2023"

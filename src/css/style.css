@@ -677,8 +677,13 @@ p {
   padding-bottom: 128px !important;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   width: 100%;
+  position: relative;
   background-color: #050607;
 }
 
@@ -749,6 +754,16 @@ a {
 
 .container-posts {
   display: flex;
+}
+
+.img-post {
+  width: 250px;
+  height: 250px;
+}
+
+.item-img-post {
+  width: 100%;
+  height: auto;
 }
 
 button {

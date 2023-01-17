@@ -8,9 +8,14 @@
 @import 'sass/typography';
 @import 'sass/spacing';
 
+html {
+    scroll-behavior: smooth;
+}
+
 
 body {
     width: 100%;
+    position: relative;
     background-color: #050607;
 }
 

@@ -15,6 +15,7 @@ function Header() {
                 <li><a href='/categorias' className='nav-link'> Categorias </a></li>
                 <li><a href='/sobre' className='nav-link'> Sobre </a></li>
                 <li><a href='/contato' className='nav-link'> Contato </a></li>
+                <li><a href='/admin' className='nav-link'> Administrador </a></li>
             </ul>
 
         </header>
